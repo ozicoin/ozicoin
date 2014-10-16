@@ -1,0 +1,4 @@
+ozicoin
+=======
+
+Cryptocurrency 
